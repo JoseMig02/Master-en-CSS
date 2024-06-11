@@ -1,0 +1,20 @@
+body {
+  background-color: orange;
+}
+h1 {
+  font-family: Arial;
+}
+.informacion ul a {
+  color: #0b8a4d;
+  font-size: 10px;
+}
+.informacion {
+  box-shadow: 0px 0px 5px black;
+  text-shadow: 0px 0px 5px #534f4f;
+}
+h1 {
+  font-size: 37px;
+}
+h1 {
+  color: blue;
+}

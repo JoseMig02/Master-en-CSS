@@ -1,0 +1,51 @@
+#menu {
+    height: 50px;
+}
+
+
+#menu ul{
+    text-decoration: none;
+    list-style: none;
+    line-height:50px ;
+}
+
+
+.item{
+    height: 150px;
+}
+
+footer{
+    height: 50px;
+    line-height: 50px;
+}
+
+.lateral{
+    height: 350px;
+}
+
+.lateral >div{
+    height: calc(250px / 3)
+}
+
+#aside{
+    padding-right: 0px;
+    width: 23%;
+    margin-left: 0px;
+}
+#aside-b{
+    padding-right: 0px auto;
+ 
+    margin-left: 0px auto;
+    margin-right: 0px auto;
+}
+
+
+@media(max-width:768px){
+
+
+
+    #menu {
+        height: auto;
+    }
+    
+}
